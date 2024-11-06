@@ -1,0 +1,2 @@
+# VariantBurden-SlidingWindow
+This workflow calculates the burden of rare variants across the genome using a sliding window approach, enabling the detection of regional clusters of rare variants. By systematically scanning variant call format (VCF) files, it identifies genomic regions enriched for rare variants, supporting analyses of localised genetic burden that may contribute to phenotype or disease susceptibility.
