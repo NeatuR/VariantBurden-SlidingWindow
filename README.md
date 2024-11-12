@@ -3,12 +3,12 @@ This workflow calculates the burden of rare variants across the genome using a s
 
 This workflow starts with a multi-sample VCF file containing cases and controls. The `filterInstructions.md`, provides a step-by-step guide on how to filter variants with MAF < 0.05 and subsequently divide the VCF files by chromosome.
 
-##STEP 1
+## STEP 1
 * navigate to the directory `variant_filtering`
 * follow the steps outlined `filterInstructions.md`
 * move the final outputs in a directory with a corresponding name
 
-##STEP 2
+## STEP 2
 For each chromosome:
 * directory `chrNo/sliding_window`: follow the steps outlined in the comments
 * directory `chrNo/Fisher`: follow the steps outlined in the comments
