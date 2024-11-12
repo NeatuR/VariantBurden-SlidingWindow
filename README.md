@@ -13,7 +13,10 @@ For each chromosome:
 * directory `chrNo/sliding_window`: follow the steps outlined in the comments
 * directory `chrNo/Fisher`: follow the steps outlined in the comments
 
-While this process could potentially be further automated, in research, time is not always dedicated to coding. However, it can serve as a baseline for implementing sliding window or burden tests approaches from scratch.
+While this process could potentially be further automated, in research, time is not always dedicated to coding. However, it can serve as a baseline for implementing sliding window or burden tests approaches from scratch. For example, I have used this method to develop: [github.com/NeatuR/VariantScreenAndBurdenMethod](https://github.com/NeatuR/VariantScreenAndBurdenMethod).
+
+
+
 
   
 
