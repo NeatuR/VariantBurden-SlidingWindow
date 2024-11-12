@@ -10,10 +10,10 @@ This workflow starts with a multi-sample VCF file containing cases and controls.
 
 ##STEP 2
 For each chromosome:
-* directory chrNo/sliding_window: follow the steps outlined in the comments
-* directory chrNo/Fisher: follow the steps outlined in the comments
+* directory `chrNo/sliding_window`: follow the steps outlined in the comments
+* directory `chrNo/Fisher`: follow the steps outlined in the comments
 
-While this process could potentially be further automated, in research, time is not always dedicated to coding.
+While this process could potentially be further automated, in research, time is not always dedicated to coding. However, it can serve as a baseline for implementing sliding window or burden tests approaches from scratch.
 
   
 
